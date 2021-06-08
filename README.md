@@ -21,7 +21,7 @@ npm install
 
 1. Clone the repo
 
-2. Setup your devices sizes inside the json file `devices.json``
+2. Setup your devices sizes inside the json file `devices.json`
 ```
 Example : 
 {
