@@ -1,4 +1,10 @@
 {
+  "name": "image-resizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Zwiterrion/image-resizer.git",
+  "author": "Etienne ANNE <etienne.anne@icloud.com>",
+  "license": "MIT",
   "dependencies": {
     "ffmpeg": "^0.0.4",
     "rimraf": "^3.0.2"
