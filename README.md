@@ -19,7 +19,9 @@ npm install
 
 # Run
 
-Setup your devices sizes inside the json file `devices.json``
+1. Clone the repo
+
+2. Setup your devices sizes inside the json file `devices.json``
 ```
 Example : 
 {
@@ -35,7 +37,7 @@ Example :
 ```
 will generate each screenshot presents inside screenshots folder with this dimension.
 
-Launch
+3. Launch
 ```
 node index.js
 ```
